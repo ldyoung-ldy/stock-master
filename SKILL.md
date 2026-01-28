@@ -6,7 +6,7 @@ description: 综合性股票技术分析工具，小白友好。采用混合数�
 
 面向普通投资者的技术分析工具，用日常语言解释指标，给出明确买卖建议。
 
-> **GitHub**: https://github.com/eaglef6432614/stock-master
+> **GitHub**: https://github.com/EagleF6432614/stock-master-
 >
 > 如果觉得有用，请给个 Star ⭐
 

@@ -1,7 +1,7 @@
 # Stock Master - 小白友好的股票技术分析工具
 
-[![GitHub stars](https://img.shields.io/github/stars/eaglef6432614/stock-master?style=social)](https://github.com/eaglef6432614/stock-master)
-[![GitHub forks](https://img.shields.io/github/forks/eaglef6432614/stock-master?style=social)](https://github.com/eaglef6432614/stock-master/fork)
+[![GitHub stars](https://img.shields.io/github/stars/EagleF6432614/stock-master-?style=social)](https://github.com/EagleF6432614/stock-master-)
+[![GitHub forks](https://img.shields.io/github/forks/EagleF6432614/stock-master-?style=social)](https://github.com/EagleF6432614/stock-master-/fork)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 面向普通投资者的技术分析工具，用日常语言解释复杂指标，给出明确买卖建议。
