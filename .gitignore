@@ -8,6 +8,8 @@ feishu_config.json
 *.xlsx
 *.xls
 my_portfolio*
+*.db
+*.sqlite
 
 # Python
 __pycache__/

@@ -99,7 +99,7 @@ def calculate_rsi(prices: np.ndarray, period: int = 14) -> float:
         avg_gain = alpha * gains[i] + (1 - alpha) * avg_gain
         avg_loss = alpha * losses[i] + (1 - alpha) * avg_loss
 
-    if avg_loss == 0:
+    if avg_loss == 0 or float(avg_loss) == 0:
         return 100.0
 
     rs = avg_gain / avg_loss
